@@ -1,0 +1,5 @@
+com\somta\springboot\utils\RedisUtil.class
+com\somta\springboot\Application.class
+com\somta\springboot\configuration\ElasticConfig.class
+com\somta\springboot\configuration\RedisConfiguration.class
+com\somta\springboot\pojo\User.class
